@@ -30,6 +30,14 @@
 .lni-linkedin-filled:before {
   content: "\e9ac";
 }
+
+.lni-discord:before {
+    content: "\e900"; 
+}
+
+.website:before {
+  content: "\EC01";
+}
 .lni-add-files:before {
   content: "\e900";
 }
